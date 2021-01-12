@@ -36,3 +36,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Añadido manualmente#
+######################
+Privado/
+*.com
+!a.com
+logs/*
+!public.txt
+assets/
